@@ -1,0 +1,10 @@
+spring:
+  application:
+    name:franky
+
+server:
+  port: 9090
+
+
+saludoESP: "Preguntate si lo que estas haciendo hoy te acerca al lugar en el que quieres estar maniana"
+saludoENG: "Ask yourself if what you are doing today brings you closer to the place you want to be tomorrow"
